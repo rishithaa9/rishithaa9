@@ -1,5 +1,5 @@
 
-💫 About Me:<br><br>👋 Hi, I'm Rishitha<br><br>🎓 B.Tech - Artificial Intelligence & Data Science<br><br>💻 Interested in Software Development, Backend Development, and AI<br><br>🌱 I’m currently learning:<br>- Java<br>- Python<br>- DSA<br>- FastAPI<br>- SQL<br>- Backend Development<br><br>👯 I’m looking to collaborate on:<br>- Beginner-friendly projects<br>- Open source contributions<br><br>
+💫 About Me:<br><br>👋 Hi, I'm Rishitha<br><br>🎓 B.Tech - Artificial Intelligence & Data Science<br><br>💻 Interested in Software Development, Backend Development, and AI<br><br>🌱 I’m currently learning:<br>- Python<br>- Java<br>- DSA<br>- FastAPI<br>- SQL<br>- Backend Development<br><br>👯 I’m looking to collaborate on:<br>- Beginner-friendly projects<br>- Open source contributions<br><br>
 
 
 ## 🌐 Socials:
